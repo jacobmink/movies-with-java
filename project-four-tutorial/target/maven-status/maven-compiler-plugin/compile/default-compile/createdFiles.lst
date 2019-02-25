@@ -1,0 +1,10 @@
+waldorf/Movie.class
+waldorf/User.class
+waldorf/Application.class
+waldorf/UserRepository.class
+waldorf/MovieController.class
+waldorf/MovieRepository.class
+waldorf/SecurityConfiguration.class
+waldorf/UserController.class
+waldorf/UserService.class
+waldorf/WebConfig.class
